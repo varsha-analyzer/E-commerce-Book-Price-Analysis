@@ -20,7 +20,7 @@ for page in range(1, 6):
         data.append({
             "title": title,
             "price": price,
-            "availability": availability,
+            "availability": availability
             "rating": rating
         })
 
